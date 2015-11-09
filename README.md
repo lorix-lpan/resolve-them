@@ -24,7 +24,7 @@ The script executes in the following order:
    name of the package manager to variable PACM.
 2. Check if the dependencies are installed according to the array variable
    PACK_LIST_ARCH or PACK_LIST_DEB
+3. Install the dependencies
 
 Note: Different package managers have different names for the same package.
 
-3. Install the dependencies
