@@ -2,6 +2,11 @@
 A customizable and platform-independent bash script written to resolve the
 dependencies of your package.
 
+## Platform supported
+Currently, this bash script only works on **Deb-based** and **pacman-based**
+systems. **redhat-based systems** and **OSX** are NOT supported. 
+Pull requests are welcome :)
+
 ## License
 GNU GENERAL PUBLIC LICENSE Version 3
 
