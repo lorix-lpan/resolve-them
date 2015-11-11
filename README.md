@@ -33,3 +33,8 @@ The script executes in the following order:
 
 Note: Different package managers have different names for the same package.
 
+## Examples
+
+For example usage, please check out
+https://github.com/lorix-lpan/alleles-fixation/blob/master/install.sh
+
