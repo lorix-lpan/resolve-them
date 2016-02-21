@@ -1,6 +1,11 @@
 # resolve-them
-A customizable and platform-independent bash script written to resolve the
+A configurable and platform-independent bash script written to resolve the
 dependencies of your package.
+
+## Introduction
+For some bizarre reasons, many useful Python libraries notably pyQt are not available on pip.
+Thus, this script is written to help you to resolve your package's dependencies on
+UNIX like operation systems.
 
 ## Platform supported
 Currently, this bash script only works on **Deb-based** and **pacman-based**
@@ -8,7 +13,7 @@ systems. **redhat-based systems** and **OSX** are NOT supported.
 Pull requests are welcome :)
 
 ## License
-GNU GENERAL PUBLIC LICENSE Version 3
+The MIT license
 
 ## Installation & Usage
 
